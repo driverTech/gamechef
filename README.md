@@ -5,7 +5,7 @@
 组织者：[大王](https://github.com/takalard/takalard.github.io/edit/master/README.md)
 
 成员：
-[大王](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[陆鸣](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[俊捷](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[夏家斌](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[张震](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[徐少波](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[万凯](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[徐少波](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[邱宁](https://github.com/takalard/takalard.github.io/edit/master/README.md)
+[大王](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[陆鸣](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[俊捷](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[夏家斌](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[张震](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[徐少波](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[万凯](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[徐少波](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[环浩](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[邱宁](https://github.com/takalard/takalard.github.io/edit/master/README.md)
 
 You can use the [editor on GitHub](https://github.com/takalard/takalard.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
