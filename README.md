@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Gamechef技术文档
 
-You can use the [editor on GitHub](https://github.com/takalard/gamechef/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 维护组成员：
+
+组织者：[大王](https://github.com/takalard/takalard.github.io/edit/master/README.md)
+
+成员：
+[大王](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[陆鸣](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[俊捷](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[夏家斌](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[张震](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[徐少波](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[万凯](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[徐少波](https://github.com/takalard/takalard.github.io/edit/master/README.md)、[邱宁](https://github.com/takalard/takalard.github.io/edit/master/README.md)
+
+You can use the [editor on GitHub](https://github.com/takalard/takalard.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 目录
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1、[Gamechef技术文档1](https://github.com/takalard/takalard.github.io/edit/master/README.md) 作者：[XXX](https://github.com/takalard/takalard.github.io/edit/master/README.md).
 
-```markdown
-Syntax highlighted code block
+2、[Gamechef技术文档1](https://github.com/takalard/takalard.github.io/edit/master/README.md) 作者：[XXX](https://github.com/takalard/takalard.github.io/edit/master/README.md).
 
-# Header 1
-## Header 2
-### Header 3
+3、[Gamechef技术文档1](https://github.com/takalard/takalard.github.io/edit/master/README.md) 作者：[XXX](https://github.com/takalard/takalard.github.io/edit/master/README.md).
 
-- Bulleted
-- List
+### 说明
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/takalard/gamechef/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本技术文档由上海游仕网络技术部维护并贡献，需要交流请联系 jun.wang2@gamechef.cn
