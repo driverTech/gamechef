@@ -19,6 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 3、[Gamechef技术文档1](https://github.com/takalard/takalard.github.io/edit/master/README.md) 作者：[XXX](https://github.com/takalard/takalard.github.io/edit/master/README.md).
 
+4、[突破](https://static.wixstatic.com/media/56a444_9273e80a60684dc8b38e56025059f356%7Emv2_d_3200_1800_s_2.png)
 ### 说明
 
 本技术文档由上海游仕网络技术部维护并贡献，需要交流请联系 jun.wang2@gamechef.cn
